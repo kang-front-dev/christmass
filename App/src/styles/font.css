@@ -1,0 +1,15 @@
+.icon-snow::before{
+  content: '\f7a3';
+}
+.icon-star::before{
+  content: '\f005';
+}
+.icon-arrow-down::before{
+  content: '\f078';
+}
+.icon-search::before{
+  content: '\f002';
+}
+.icon-times::before{
+  content: '\f00d';
+}
